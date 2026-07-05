@@ -1,0 +1,4 @@
+luma.oled
+pillow
+numpy
+opencv-python
